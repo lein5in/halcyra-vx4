@@ -20,7 +20,7 @@ HALCYRA VX-4 is an invented product name. This is not a real product.
 - Method and kit: [Nyxera0x/cutaway](https://github.com/Nyxera0x/cutaway) (MIT), built on [whaleyxbt/claude-motion](https://github.com/whaleyxbt/claude-motion) (MIT)
 - Live page structure: [elvarofficial/teardown](https://github.com/elvarofficial/teardown) (MIT)
 - three.js (MIT); Inter and JetBrains Mono fonts (SIL OFL)
-- Made with Claude Code
+
 
 ## Licence
 MIT, see LICENSE.
